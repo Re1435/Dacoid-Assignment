@@ -6,15 +6,14 @@ const Page1 = ({ navigateToPage }) => {
   return (
     <>
       <Navbar />
-      <a
-        href='#page3'
-        className='w-9 h-5 m-11 text-right'
+      <div
+        className='flex justify-end ml-11'
         onClick={() => navigateToPage("page3")}
       >
-        <p className='font-montserrat font-medium text-base text-indigo-400 underline mr-5'>
+        <p className='w-9 h-5 m-11  font-medium text-base text-indigo-400 underline mr-5'>
           Skip
         </p>
-      </a>
+      </div>
       <div className='mt-31 ml-12'>
         <img src={Image1} alt='running' className='w-72 h-72' />
       </div>

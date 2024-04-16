@@ -55,7 +55,7 @@ const Page4 = ({ navigateToPage }) => {
           onChange={handleChange}
         />
         <input
-          type='text'
+          type='password'
           className='w-[344px] h-14 rounded-xl mt-6 ml-4 bg-slate-100 p-4'
           placeholder='Password'
           name='password'

@@ -111,7 +111,7 @@ const Page7 = ({ navigateToPage }) => {
         <p className='font-semibold text-xs ml-4 my-4'>05:00 PM</p>
         <hr />
       </div>
-      <Footer />
+      <Footer navigateToPage={navigateToPage} />
     </div>
   );
 };
