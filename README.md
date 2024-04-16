@@ -34,6 +34,10 @@ Open your browser and navigate to http://localhost:3000 to view the application.
 
 https://fitness-tracker-nu-eight.vercel.app
 
+# Note
+
+It is only responsive for Mobile only.
+
 # Usage
 
 Upon loading the application, users are presented with a list of fitness goals to choose from.
