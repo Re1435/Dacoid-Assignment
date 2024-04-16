@@ -30,6 +30,10 @@ Install dependencies by running `npm install`.
 Start the development server by running npm start.
 Open your browser and navigate to http://localhost:3000 to view the application.
 
+# Live Demo
+
+https://fitness-tracker-nu-eight.vercel.app
+
 # Usage
 
 Upon loading the application, users are presented with a list of fitness goals to choose from.
